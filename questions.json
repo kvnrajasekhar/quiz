@@ -1,0 +1,97 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is cso HOD?",
+      "correct_answer": "Nagamalleswara Rao",
+      "incorrect_answers": ["Nageswararo", "Prudhvi", "Nagaraju"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who got first rank in IoT 1st year?",
+      "correct_answer": "Indra Prakash",
+      "incorrect_answers": ["Ramesh", "Yodha", "Shanmukh"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who got selected for NCC from iot?",
+      "correct_answer": "Rajasekhar",
+      "incorrect_answers": [
+        "Harishankar",
+        "Prabhas",
+        "Vinay"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the principal of college?",
+      "correct_answer": "Kolla Srinivas",
+      "incorrect_answers": [
+        "Ravindra",
+        "Sudhakar",
+        "Prasad"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Iot department is in which block?",
+      "correct_answer": "Hi-Tech",
+      "incorrect_answers": ["Cyber", "SJB", "Digital"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the room number for iot 3rd year??",
+      "correct_answer": "114",
+      "incorrect_answers": ["112", "111", "110"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is class teacher for iot 3rd year??",
+      "correct_answer": "Prudhvi",
+      "incorrect_answers": [
+        "Nagamalleswara rao",
+        "Nageswara rao",
+        "Nagaraju"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is lover boy in IoT third year ?",
+      "correct_answer": "Anirudh",
+      "incorrect_answers": ["Yodha", "Srinu", "Shanmukh"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many faculty are in IOT department",
+      "correct_answer": "4",
+      "incorrect_answers": ["1", "5", "3"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Indra Surname?",
+      "correct_answer": "Gottipati",
+      "incorrect_answers": ["Ravintula", "Kotla", "Pamarthi"]
+    }
+  ]
+}
